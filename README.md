@@ -41,8 +41,8 @@ This project will blink the pico-w on board led for every 200 msec.
 
 connect pico w to laptop through usb.
 ```
-![connections](https://github.com//RajkumarGara/led_blink_pico_w/images/connections.jpg?raw=true)
+![connections](picow_blink/images/connections.jpg?raw=true)
 ```
 ```
-![connections](https://github.com//RajkumarGara/led_blink_pico_w/images/pico_w.jpg?raw=true)
+![connections](picow_blink/images/pico_w.jpg?raw=true)
 ```
